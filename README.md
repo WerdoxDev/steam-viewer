@@ -4,6 +4,8 @@ A desktop application that aggregates and displays your Steam game library acros
 
 ![Windows](https://img.shields.io/badge/platform-Windows-blue)
 
+![Screenshot](assets/image.png)
+
 ## Features
 
 - **Multi-Account Aggregation** — Automatically detects all Steam accounts on your machine and combines their game libraries into one unified view
