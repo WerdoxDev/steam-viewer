@@ -16,11 +16,10 @@ A desktop application that aggregates and displays your Steam game library acros
 
 ## Prerequisites
 
-- [Bun](https://bun.sh/) runtime installed
 - Steam installed at the default location (`C:\Program Files (x86)\Steam`)
 - A [Steam Web API Key](https://steamcommunity.com/dev/apikey) (entered in the app's Settings tab)
 
-## Getting Started
+## Getting Started (Development)
 
 ```bash
 # Install dependencies
